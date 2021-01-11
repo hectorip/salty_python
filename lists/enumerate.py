@@ -2,4 +2,7 @@
 # usa la función enumerate
 
 
-print("hola")
+lista = ["Alex", "Héctor", "TheDojoMX"]
+
+for (i, el) in enumerate(lista):
+    print(f"{i} - {el}")
