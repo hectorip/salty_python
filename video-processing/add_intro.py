@@ -15,4 +15,3 @@ intro = VideoFileClip("intro.mp4")
 
 completo = concatenate_videoclips([intro, sample, intro], method="compose")
 completo.write_videofile("completo.mp4", fps=30, preset="fast", threads=8)
-
