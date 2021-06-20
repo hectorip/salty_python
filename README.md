@@ -19,3 +19,6 @@ Los ejercicios e ideas serán obtenidos de las siguientes fuentes:
 - [Intuitive Python](https://pragprog.com/titles/dmpython/intuitive-python/)
 - [Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/)
 - [Sitio y ejercicios de Reuven Lerner](https://lerner.co.il/)
+- [Python Workout de Reuven Lerner](https://www.manning.com/books/python-workout)
+- [Practices of the Python Pro](https://www.manning.com/books/practices-of-the-python-pro)
+- [Classic Computer Science in Python](https://www.manning.com/books/classic-computer-science-problems-in-python)

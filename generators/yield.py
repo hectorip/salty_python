@@ -1,7 +1,8 @@
-"""
-Usando generadores
-"""
 import random
+
+"""
+Usando generadores y yield
+"""
 
 
 def random_string():
@@ -14,7 +15,7 @@ def random_string():
         r = random.randint(0, 100)
 
 
-strings = random_string()
+s = random_string()
 
-for i in strings:
+for i in s:
     print(i)
