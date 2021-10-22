@@ -12,6 +12,3 @@ cuenta = Counter("murcielago")
 
 
 print(cuenta.most_common(3))
-
-
-
